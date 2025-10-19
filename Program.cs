@@ -25,9 +25,8 @@ class Program
 
         IBitrateCalculator calculator = new BitrateCalculator();
 
-        //deserialise theh jason
+        //deserialise the json
         var device = JsonSerializer.Deserialize<DeviceData>(json);
-
 
         foreach (var nic in device.NIC)
         {
@@ -43,8 +42,8 @@ class Program
             var (rxBps, txBps) = calculator.Calculate(nic, next, PollingIntervalSeconds);
 
             Console.WriteLine($"NIC: {nic.Description}");
-            Console.WriteLine($"  RX Bitrate: {rxBps:N0} bps");
-            Console.WriteLine($"  TX Bitrate: {txBps:N0} bps");
+            Console.WriteLine($"  Receiver Bitrate: {rxBps:N0} bps");
+            Console.WriteLine($"  Transmitter Bitrate: {txBps:N0} bps");
         }
         
     }
