@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BitRateCalculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ee1ab700f5096a0531a3a3f69e6eb2c5d5e05f2")]
 [assembly: System.Reflection.AssemblyProductAttribute("BitRateCalculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BitRateCalculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

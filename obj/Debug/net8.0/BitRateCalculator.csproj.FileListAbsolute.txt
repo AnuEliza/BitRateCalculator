@@ -12,3 +12,4 @@ C:\Users\eliza\Desktop\Test projects\BitRateCalculator\obj\Debug\net8.0\refint\B
 C:\Users\eliza\Desktop\Test projects\BitRateCalculator\obj\Debug\net8.0\BitRateCalculator.pdb
 C:\Users\eliza\Desktop\Test projects\BitRateCalculator\obj\Debug\net8.0\BitRateCalculator.genruntimeconfig.cache
 C:\Users\eliza\Desktop\Test projects\BitRateCalculator\obj\Debug\net8.0\ref\BitRateCalculator.dll
+C:\Users\eliza\Desktop\Test projects\BitRateCalculator\obj\Debug\net8.0\BitRateCalculator.sourcelink.json
