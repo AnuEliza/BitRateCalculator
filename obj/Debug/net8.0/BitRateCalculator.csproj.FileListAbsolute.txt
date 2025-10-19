@@ -1,0 +1,14 @@
+C:\Users\eliza\Desktop\Test projects\BitRateCalculator\obj\Debug\net8.0\BitRateCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eliza\Desktop\Test projects\BitRateCalculator\obj\Debug\net8.0\BitRateCalculator.AssemblyInfoInputs.cache
+C:\Users\eliza\Desktop\Test projects\BitRateCalculator\obj\Debug\net8.0\BitRateCalculator.AssemblyInfo.cs
+C:\Users\eliza\Desktop\Test projects\BitRateCalculator\obj\Debug\net8.0\BitRateCalculator.csproj.CoreCompileInputs.cache
+C:\Users\eliza\Desktop\Test projects\BitRateCalculator\bin\Debug\net8.0\BitRateCalculator.exe
+C:\Users\eliza\Desktop\Test projects\BitRateCalculator\bin\Debug\net8.0\BitRateCalculator.deps.json
+C:\Users\eliza\Desktop\Test projects\BitRateCalculator\bin\Debug\net8.0\BitRateCalculator.runtimeconfig.json
+C:\Users\eliza\Desktop\Test projects\BitRateCalculator\bin\Debug\net8.0\BitRateCalculator.dll
+C:\Users\eliza\Desktop\Test projects\BitRateCalculator\bin\Debug\net8.0\BitRateCalculator.pdb
+C:\Users\eliza\Desktop\Test projects\BitRateCalculator\obj\Debug\net8.0\BitRateCalculator.dll
+C:\Users\eliza\Desktop\Test projects\BitRateCalculator\obj\Debug\net8.0\refint\BitRateCalculator.dll
+C:\Users\eliza\Desktop\Test projects\BitRateCalculator\obj\Debug\net8.0\BitRateCalculator.pdb
+C:\Users\eliza\Desktop\Test projects\BitRateCalculator\obj\Debug\net8.0\BitRateCalculator.genruntimeconfig.cache
+C:\Users\eliza\Desktop\Test projects\BitRateCalculator\obj\Debug\net8.0\ref\BitRateCalculator.dll
