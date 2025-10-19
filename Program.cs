@@ -25,6 +25,7 @@ class Program
 
         IBitrateCalculator calculator = new BitrateCalculator();
 
+        //deserialise theh jason
         var device = JsonSerializer.Deserialize<DeviceData>(json);
 
 
